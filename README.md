@@ -157,8 +157,6 @@ I have a proactive profile, leadership mindset, strong communication skills, and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WectonSantos&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WectonSantos&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🤝 Let's Connect
