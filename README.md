@@ -71,8 +71,6 @@ Tenho perfil proativo, espírito de liderança, boa comunicação e facilidade p
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=WectonSantos&layout=compact&theme=tokyonight&hide_border=true)
 
-![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=WectonSantos)
-
 ---
 
 ## 🤝 Vamos nos conectar?
