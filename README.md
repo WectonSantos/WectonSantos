@@ -11,7 +11,7 @@ Desde cedo, minha curiosidade em entender *como as coisas funcionam por baixo do
 ## 🚀 Sobre mim
 
 - 🎓 **Bacharelado em Engenharia de Computação** — Universidade Santa Cecília  
-  *(6º semestre | Conclusão prevista: Dez/2027)*
+  *(7º semestre | Conclusão prevista: Dez/2027)*
 - 🕹️ **Técnico em Programação de Jogos Digitais**
 - 🖥️ **Técnico em Informática e Suporte**
 - 🔌 Entusiasta de **Arduino** e **microcontroladores ATmega**
@@ -97,7 +97,7 @@ From an early age, my curiosity about understanding *how things work under the h
 ## 🚀 About Me
 
 - 🎓 **Bachelor’s Degree in Computer Engineering** — Universidade Santa Cecília  
-  *(6th semester | Expected graduation: Dec/2027)*
+  *(7th semester | Expected graduation: Dec/2027)*
 - 🕹️ **Game Programming Technician**
 - 🖥️ **IT & Technical Support Technician**
 - 🔌 Enthusiast of **Arduino** and **ATmega microcontrollers**
